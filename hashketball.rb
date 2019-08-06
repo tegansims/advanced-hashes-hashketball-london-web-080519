@@ -182,3 +182,8 @@ def long_name_steals_a_ton?
   biggest_stealer == player_with_longest_name
   
 end
+<<<<<<< HEAD
+=======
+
+p long_name_steals_a_ton?
+>>>>>>> f425cc779af72381c4113857cb845275ff694041
